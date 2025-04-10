@@ -15,6 +15,7 @@ The system is built using Python and employs a simple text-based interface for i
 1. Python: The core programming language for building the system.<br>
 2. JSON: Used for storing expense records (alternatively, SQLite , CSV can be used for more complex data storage).<br>
 3. datetime: For handling and displaying the date and time of each expense.<br>
+4. Error Handling: Used try and except for more accuracy.
 
 # Contribution :
 We welcome contributions to the Expense Recorder System! <br> Whether you have an idea for an improvement, a bug fix, or a new feature, your help is greatly appreciated.
